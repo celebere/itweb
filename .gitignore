@@ -1,4 +1,14 @@
 *.log
 *.pot
 *.pyc
+*.sql
+*.sqlite
 local_settings.py
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+.Trash-1000
+.Trash-0
+Thumbs.db
+Desktop.ini
